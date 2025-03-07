@@ -1,0 +1,129 @@
+* {
+    font-size: xx-large;
+    font-family: monospace;
+}
+
+.wow {
+    font-family: "Ruthie", sans-serif;
+    font-weight: 900;
+}
+
+h1 {
+    text-align: center;
+    font-family: "IM Fell DW Pica SC", sans-serif;
+    font-size: 60px;
+}
+
+p {
+    font-size: 0,1em;
+}
+
+.awal {
+    background-image: url('https://img.pikbest.com/wp/202343/black-texture-close-up-of-a-charcoal-background-showing-textured-coal-from-above_9983246.jpg!f305cw');
+    box-shadow: inset;
+    border: 1500em;
+    height: 8em;
+    width: none;
+    border-radius: none;
+    border-width: 5cm;
+    text-align: center;
+}
+
+.awal2 {
+    color: white;
+    text-align: center;
+    font-family: "IM Fell DW Pica SC", sans-serif;
+    align-items: center;
+    font-size: auto;
+    display: flex;
+    justify-content: center;
+}
+
+nav, ul, li {
+    -webkit-transition: background-color .3s;
+    transition: background-color .3s;
+    float: left;
+    padding: 0;
+    text-align: end;
+    align-items: end;
+    font-size: auto;
+}
+
+.boxx {
+    height: 300px;
+    width: 200px;
+    background-color: #eee;
+    border: .1em solid #2D2D2D;
+    border-radius: 50px;
+    display: inline-table;
+    margin: .5em 0 2em;
+    text-align: center;
+    transition: transform 3 ease-in-out;
+}
+
+.boxx:hover {
+    transform: scale(1.1);
+    box-shadow: #cdd14e, 100px, inset;
+    background-image: linear-gradient(#e0e0e0, #6c6161);
+}
+
+#kontak {
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+
+#skill {
+    background-color: none;
+    border-radius: none;
+    text-align: center;
+    box-shadow: inset;
+    width: 100%;
+    height: 100%;
+}
+
+#ach {
+    background-color: #eee;
+    border-radius: none;
+    text-align: center;
+    box-shadow: inset;
+    width: 100%;
+    height: 100%;
+}
+
+.slideshow-container {
+    height: 500px;
+    width: 450px;
+    border: .1em solid #2D2D2D;
+    background-color: white;
+    display: inline-table;
+    margin: .5em 0 2em;
+    text-align: center;
+}
+
+.ach2 {
+    font-size: xx-large;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.kaki {
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.petek {
+    width: 200px;
+    height: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    opacity: 0.5;
+    text-decoration: none;
+    background-color: none;
+}
+
+.petek:hover {
+    background-image: linear-gradient(#e0e0e0, #6c6161);
+    scale: 1.1;
+}
