@@ -1,2 +1,2 @@
-# testgit
-Ini adalah testgit
+# Readme
+Ini adalah web portofolio percobaan saya
