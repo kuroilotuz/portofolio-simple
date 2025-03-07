@@ -71,6 +71,11 @@ nav, ul, li {
     text-align: center;
     height: auto;
     width: auto;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
 }
 
 #skill {
