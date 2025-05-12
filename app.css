@@ -18,6 +18,54 @@ p {
     font-size: 0,1em;
 }
 
+.navbar{
+	background: #212121;
+	margin: 0;
+	padding: 20px 30px;
+}
+ 
+.logo{
+	font-size: 14pt;
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+}
+ 
+.container{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+ 
+.tombol{
+	display: none;
+	color: white;
+	font-size: 14pt;			
+}
+ 
+.tombol:hover{
+	cursor: pointer;
+}
+ 
+.menu{
+	margin: 0;
+	display: flex;
+	list-style: none;
+	padding: 0;			
+}
+ 
+.menu li{
+	padding-left: 0;
+	margin-right: 10px;
+}
+ 
+.menu li a{
+	padding:10px;
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+}
+
 .awal {
     background-image: url('https://img.pikbest.com/wp/202343/black-texture-close-up-of-a-charcoal-background-showing-textured-coal-from-above_9983246.jpg!f305cw');
     box-shadow: inset;
