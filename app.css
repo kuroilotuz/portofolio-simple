@@ -151,3 +151,14 @@ a {
     background-image: linear-gradient(#e0e0e0, #6c6161);
     scale: 1.1;
 }
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 768px) {
+  .container {
+    flex-direction: row;
+  }
+}
