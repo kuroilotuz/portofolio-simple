@@ -56,6 +56,13 @@ nav, ul, li {
     font-size: auto;
 }
 
+.menu li a{
+	padding:10px;
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+}
+
 .boxx {
     height: 300px;
     width: 200px;
