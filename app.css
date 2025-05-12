@@ -24,18 +24,6 @@ p {
 	list-style: none;
 	padding: 0;			
 }
- 
-.menu li{
-	padding-left: 0;
-	margin-right: 10px;
-}
- 
-.menu li a{
-	padding:10px;
-	color: white;
-	text-decoration: none;
-	display: inline-block;
-}
 
 .awal {
     background-image: url('https://img.pikbest.com/wp/202343/black-texture-close-up-of-a-charcoal-background-showing-textured-coal-from-above_9983246.jpg!f305cw');
@@ -135,6 +123,7 @@ a {
 .kaki {
     font-size: 10px;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 
 .petek {
