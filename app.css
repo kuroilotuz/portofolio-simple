@@ -17,35 +17,6 @@ h1 {
 p {
     font-size: 0,1em;
 }
-
-.navbar{
-	background: #212121;
-	margin: 0;
-	padding: 20px 30px;
-}
- 
-.logo{
-	font-size: 14pt;
-	font-weight: bold;
-	text-decoration: none;
-	color: white;
-}
- 
-.container{
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-}
- 
-.tombol{
-	display: none;
-	color: white;
-	font-size: 14pt;			
-}
- 
-.tombol:hover{
-	cursor: pointer;
-}
  
 .menu{
 	margin: 0;
